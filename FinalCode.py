@@ -231,7 +231,7 @@ def batting_inning():
                 print('You got on base!')
                 print(f" ")
             #When runs home is 1 or more, adds to your total score and prints a string. Batting inning continues to run.
-            elif runs_home >= 1:
+            else:
                 total_runs_home += 1
                 print(f'You got on base! You have {runs_home} run(s).')
                 print(f' ')
