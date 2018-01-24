@@ -6,3 +6,5 @@ The batting inning asks the player questions that require a one-word typed respo
 The game is over when the opposing team scores 10 runs in total against the player. It does not need to be a mercy rule affect where the opposing team has 10+ runs from the player's own score. Both the opposing team and the player can only receive five runs per inning. The game generally lasts five innings, however, when the fifth inning ends, the player is asked if they would like to continue playing until the tenth inning. If the player answers yes, the game will continue. If the player answers no, the total score will be printed as well as whether the player won, lost, or tied.
 
 The game is recommended only for those with extreme knowledge of the Supernatural TV Show. Spelling counts and the player needs to watch out for the use of plurals.
+
+Link to flowchart: https://drive.google.com/file/d/1i96vlJhwBl-RPheK2MUZLY_tWxmNVSjs/view?usp=sharing
