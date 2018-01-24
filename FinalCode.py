@@ -344,7 +344,7 @@ def fielding_inning():
                     print(f'The runner has taken the base!')
                     print(f' ')
                 #When the runs for the other team (per inning) is 1 or more, the total runs for the other team increases by 1.
-                elif runs_away >=1:
+                else:
                     total_runs_away += 1
                     #When the total runs of the opposing team is 10, the game ends
                     if total_runs_away == 10:
